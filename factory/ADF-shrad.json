@@ -1,0 +1,15 @@
+{
+	"name": "ADF-shrad",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83a82e54-3c62-4938-a651-44b93c1b8053",
+		"tenantId": "a7edffcc-e935-494c-8e82-28db85cff1f7"
+	}
+}
